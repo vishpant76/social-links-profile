@@ -102,3 +102,8 @@ li:hover {
   cursor: pointer;
   caret-color: var(--grey-900-bg);
 }
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
