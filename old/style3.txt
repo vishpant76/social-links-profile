@@ -28,6 +28,8 @@ h1 {
 
 .social-profile {
   background-color: var(--grey-800-bg);
+  /*   width: 24rem;
+  max-width: 90vw; */
   max-width: 24rem;
   width: 90vw;
   display: flex;
@@ -43,6 +45,7 @@ h1 {
   width: 5.5rem;
   height: 5.5rem;
   align-self: center;
+  /* border-radius: 62.438rem; */
   border-radius: 50%;
 }
 
@@ -75,6 +78,7 @@ li {
 }
 
 .social-links a {
+  /* color: inherit; */
   display: block;
   width: 100%;
   background-color: var(--grey-700-bg);
